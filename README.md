@@ -1,3 +1,6 @@
+# For Archive Purpose 
+### Used in SMS-Gateway to remove reply in emails for outgoing messages.
+
 # mailstrip
 
 mailstrip is a [Go][2] library that parses email text and strips it of
